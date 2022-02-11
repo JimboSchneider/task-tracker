@@ -1,23 +1,23 @@
 {
-  "name": "my-app",
+  "name": "task-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
-    "@types/jest": "^27.0.3",
-    "@types/node": "^16.11.17",
-    "@types/react": "^17.0.38",
+    "@types/jest": "^27.4.0",
+    "@types/node": "^16.11.24",
+    "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.11",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
-    "typescript": "^4.5.4",
-    "web-vitals": "^2.1.2"
+    "typescript": "^4.5.5",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build:tailwind": "tailwindcss build src/index.css -o src/tailwind.output.css",
+    "build:tailwind": "tailwindcss build src/App.css -o src/tailwind.output.css",
     "prestart": "npm run build:tailwind",
     "prebuild": "npm run build:tailwind",
     "start": "react-scripts start",
@@ -44,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "tailwindcss": "^3.0.15"
+    "tailwindcss": "^3.0.21"
   }
 }
