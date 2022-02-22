@@ -19,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Brought to you by Jim Schneider</p>
       </header>
     </div>
   );
