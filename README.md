@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Note
+This will be slowly converting into a task-tracking style app. And I am sharing this repo for my learning, and anyone else that would either like to follow along or fork for their own repo creation. 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And also utilzes [Tailwind CSS](https://tailwindcss.com/) a utility-first CSS framework. [TypeScript](https://www.typescriptlang.org/) is also being utilzed for Type safety,and many other benefits.
 
 ## Available Scripts
 
