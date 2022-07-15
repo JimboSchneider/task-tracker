@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and is using [TailwindCSS](https://tailwindcss.com/).
+
+## Current Foundations
+This will be slowly converting into a task-tracking style application with login functionality, and some modest user preference/theme settings. I am sharing this repo for my learning, and anyone else that would either like to follow along. Or hey fork my repo, and delete the parts of app that you don't need and use for your own app.
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And also utilzes [Tailwind CSS](https://tailwindcss.com/) a utility-first CSS framework. [TypeScript](https://www.typescriptlang.org/) is also being utilzed for Type safety, and many other benefits.
 
 ## Available Scripts
 
@@ -51,8 +55,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## The More You Know!
+To learn React, check out the [React documentation](https://reactjs.org/). More about [TypeScript](https://www.typescriptlang.org/docs/).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Hosting<br>
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=8740a4a8f85e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
