@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+
 ## Current Foundations
 This will be slowly converting into a task-tracking style application with login functionality, and some modest user preference/theme settings. I am sharing this repo for my learning, and anyone else that would either like to follow along. Or hey fork my repo, and delete the parts of app that you don't need and use for your own app.
 
@@ -31,6 +32,18 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Other commands
+
+### `npm run lint`
+
+Runs eslint on your entire project directory and gives the output to the console.
+
+- To fix problems use `npm run lint:fix` in order to automatically fix, automatically fixable errors/warnings.
+- `.eslintrc.js` contains the rules for Eslint. You can turn rules on, off or convert them to warnings to error under the rules property of `.eslintrc.js` .
+- `.eslintignore` contains the folders and files Eslint will ignore.
+- If you want to ignore a certain rule for the line of code add `// eslint-disable-next-line <rule_name>` to the top of the line.
+- If you want to ignore a certain rule for the entire file, add `/* eslint-disable <rule_name> */` to the top of the file.
 
 ### `npm run eject`
 
